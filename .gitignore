@@ -1,6 +1,6 @@
 *venv
-server/*__pycache__
-server/*env
+server/__pycache__/*
+server/env/*
 *.log
-*.vscode
+.vscode
 *.DS_Store
