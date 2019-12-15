@@ -1,4 +1,6 @@
 *venv
 server/*__pycache__
 server/*env
-server/service.log
+*.log
+*.vscode
+*.DS_Store
